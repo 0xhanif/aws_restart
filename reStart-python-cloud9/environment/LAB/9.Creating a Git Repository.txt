@@ -1,0 +1,5 @@
+Exercise 1: Downloading your Python files from the previous labs
+Exercise 2: Creating a GitHub account
+Exercise 3: Reading the GitHub Hello World Guide
+Exercise 4: Creating a private repository
+Exercise 5: Downloading a repository
